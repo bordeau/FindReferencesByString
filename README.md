@@ -3,7 +3,7 @@ Salesforce Lightning components and Apex class to show Lightning component, Apex
 
 This is intended for a Dev Org or Sandbox, there is no test code.
 
-There is no installer, so you can cut-n-paste the code into appropriately created placeholders in the Developer Console.  FindLightninBundleReferences uses the DataComponent for accessing the apex class.  Also, FindLightninBundleReferences doesn't handle either of the events fired by DataComponent, so you have remove them from the DataComponent if you wish.
+There is no installer, so you can cut-n-paste the code into appropriately created placeholders in the Developer Console.  FindLightninBundleReferences uses the DataComponent for accessing the apex class.  Also, FindLightninBundleReferences doesn't handle either of the events fired by DataComponent, so you can remove them from the DataComponent if you wish.
 
 Use Lightning App Builder to place the component on a lightning page.  In the Method field, include which AuraEnabled apex method to call to return results.  find targets Lightning Components, findPage targets VisualForce pages, findComponent targets apex components, findApex targets apex classes, and findTrigger targets apex triggers.  This is the only setting, unless you want to hack your own.
 
