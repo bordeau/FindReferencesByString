@@ -1,7 +1,7 @@
 # FindReferencesByString
 Salesforce Lightning components and Apex class to show Lightning component, Apex class, Apex trigger, VisualForce, or Apex Component references by string.  
 
-This is intended for a Dev Org or Sandbox, there is not test code.
+This is intended for a Dev Org or Sandbox, there is no test code.
 
 There is no installer, so you can cut-n-paste the code into appropriately created placeholders in the Developer Console.  FindLightninBundleReferences uses the DataComponent for accessing the apex class.
 
