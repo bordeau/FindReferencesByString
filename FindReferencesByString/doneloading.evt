@@ -1,0 +1,1 @@
+<aura:event type="COMPONENT" description="Data has finished loading event" />

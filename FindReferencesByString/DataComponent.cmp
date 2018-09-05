@@ -1,0 +1,13 @@
+<aura:component abstract="true">
+
+    <aura:registerEvent name="loading"
+                        type="c:loading"
+                        description="fire event indicating loading data"/>
+
+    <aura:registerEvent name="doneloading"
+                        type="c:doneloading"
+                        description="fire event indicating data is loaded" />
+
+    {!v.body}
+
+</aura:component>
