@@ -1,3 +1,0 @@
-<aura:event type="COMPONENT" access="global" description="Data loading event">
-     <aura:attribute access="global" name="done" type="Boolean" default="false" description="attribute setting letting if done" />
-</aura:event>
