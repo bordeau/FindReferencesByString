@@ -11,4 +11,6 @@ To use just type the string to search for in the field and click the Go button o
 
 There are absolutely no warranties for this code.  Use as you wish at your own risk.
 
+<a href="https://githubsfdeploy.herokuapp.com"><img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png"></a>
+
 
