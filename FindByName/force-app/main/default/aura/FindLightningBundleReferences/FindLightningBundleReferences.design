@@ -1,0 +1,3 @@
+<design:component>
+    <design:attribute name="method" label="Method name (inc. prefix, e.g., c.blah)" />
+</design:component>

@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "ipportal",
+  "sfdcLoginUrl": "https://test.salesforce.com",
+  "sourceApiVersion": "43.0"
+}
