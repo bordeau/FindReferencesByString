@@ -1,0 +1,13 @@
+<aura:documentation>
+	<aura:description>
+        <p>
+            Abstract component that other components extend to provide simplier access to apex controllers. Primarily
+            used for query methods because update/insert cannot cache and this code does cache some.
+        </p>
+                 
+     
+        <p>Created by: charles</p>
+        <p>Last modified by: charles</p>
+    </aura:description>
+    
+</aura:documentation>
